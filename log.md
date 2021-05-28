@@ -21,6 +21,9 @@
 ### Day 2: May 27, Thursday
 
 **Today's Progress**: I'm relearning how to work on .md files; 
+1. Attended Algorithms & Interview Prep - Stacks & Queues (Whiteboarding Practice)
+2. Volunteered to be a breakout room helper for tonight at SF-Algos
+3. Revisited Basic HTML5 course in freecodecamp.org
 
 **Thoughts** I googled for two actions I didn't know how to move forward in github and in an md file. I feel good that I dont feel stuck on a subject. I was able to push forward on my coding journey. 
 
